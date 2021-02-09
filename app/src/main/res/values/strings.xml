@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizMe</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="name">Name</string>
+    <string name="start">START</string>
+    <string name="text_holder">What country does this flag belong to?</string>
+    <string name="holder_progress">0/10</string>
+    <string name="quiz_option_holder">Apple</string>
+    <string name="bt_quiz">SUBMIT</string>
+    <string name="result_score">Your Score is %d out of %d</string>
+</resources>
